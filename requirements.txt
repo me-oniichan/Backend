@@ -1,5 +1,5 @@
 Flask==2.2.2
-opencv-python-headless==4.5.2.52
+opencv-python-headless==4.5.2.56
 numpy==1.23.4
 Pillow==9.3.0
 torch==2.0.1
