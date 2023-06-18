@@ -2,5 +2,6 @@ Flask==2.2.2
 opencv-python-headless==4.7.0.72
 numpy==1.22.1
 Pillow==9.3.0
+torch==2.0.1
 transformers==4.30.0
 gunicorn==20.1.0
