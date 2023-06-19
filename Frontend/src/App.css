@@ -1,0 +1,56 @@
+#root {
+  height: 100vh;
+}
+
+.home{
+  height: 90vh;
+  display: flex;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  min-width: 400px;
+  margin: auto;
+  transition-duration: 500ms;
+}
+
+.unhighlight{
+  box-shadow: 0 0 5px 1px beige;
+}
+
+.highlight{
+  box-shadow: 0 0 10px 5px hotpink;
+}
+
+.submit{
+  padding: 10px;
+  border: none;
+  font-size: 20px;
+  font-weight: 600; 
+  transition-duration: 300ms;
+  cursor: pointer;
+}
+
+.submit:hover{
+  background-color: hotpink;
+  color: white;
+}
+
+.submit:active{
+  box-shadow: 0 2px 5px 2px #ffa4d1;
+}
+
+.navbar{
+  display: flex;
+  background-color: hotpink;
+  padding: 5px;
+}
+
+.navbar-text{
+  color: white;
+  font-family: "Flexo-Bold",arial,sans-serif;
+  font-weight: 600;
+  margin: auto;
+  font-size: 35px;
+}

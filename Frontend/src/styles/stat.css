@@ -1,0 +1,65 @@
+.stat-card{
+    width: 400px;
+    height: 350px;
+    border-radius: 10px;
+    background-color: #202020;
+}
+
+@media screen and (max-width: 425px) {
+    .stat-card{
+        width: 100%;
+    }
+}
+
+
+.stat-head{
+    color: white;
+    font: 20px 'Flexo';
+    font-weight: 700;
+    margin: 10px;
+}
+
+.stat-list{
+    list-style-type: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.stat-item{
+    height: 30px;
+    margin-bottom: 3px;
+    font: 16px 'Flexo';
+    font-weight: 500;
+    border-top: 1px solid rgb(175, 175, 175);
+    color: beige;
+    padding-top: 10px;
+    display: flex;
+    gap: 8px;
+}
+
+.stat-name{
+    color: #dbdbdb;
+    width: 80px;
+}
+
+.stat-value{
+    color: #a3a3a3;
+}
+
+.stat-chart{
+    width: 100%;
+}
+
+.chart-value{
+    position: relative;
+    top: 6px;
+    background-color: violet;
+    height: 10px;
+    border-radius: 3px;
+}
+
+.end-rod{
+    height: 10px;
+    width: 100%;
+    background-color: #85927c;
+}
