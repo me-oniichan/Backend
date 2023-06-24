@@ -2,7 +2,9 @@
 
 A side project by me to detect pokemon in an image and display relevent info.
 
-## Sample Video: [video](ReadmeResource/poke-detect.mp4)
+## Sample 
+https://github.com/me-oniichan/Pokemon-Detector/assets/66708802/c72d5efe-c30d-4453-81e2-10ddfd000917
+
 
 ## Usage
 - clone master branch using: ``` git clone https://github.com/me-oniichan/Pokemon-Detector.git ```
