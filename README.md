@@ -20,4 +20,4 @@ https://github.com/me-oniichan/Pokemon-Detector/assets/66708802/c72d5efe-c30d-44
 <br>
 <br>
 
-### Dataset used to fine tune model : ![Pokemon Dataset](https://drive.google.com/file/d/1wH5XZREtXDEBTbYTce5EuMV3rW_9Q4vC/view?usp=sharing)
+### Dataset used to fine tune model : [Pokemon Dataset](https://drive.google.com/file/d/1wH5XZREtXDEBTbYTce5EuMV3rW_9Q4vC/view?usp=sharing)
